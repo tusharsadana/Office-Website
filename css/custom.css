@@ -1,0 +1,58 @@
+.box1{
+    height: 100px;
+    width: 30%;
+    background-color: yellow;
+    margin:1% 1%;
+}
+.ofblack{
+    background-color: #151515;
+}
+.marl{
+    margin-left: 4.5%;
+}
+.box2{
+      height: 100px;
+    width: 30%;
+    background-color: yellow;
+    margin:1% 1%;
+}
+.box3{
+      height: 100px;
+    width: 30%;
+    margin:1% 1%;
+    background-color: yellow;
+}
+.box4{
+      height: 200px;
+    width: 30%;
+    margin:1% 1%;
+    background-color: yellow;
+}
+.box5{
+      height: 539px;
+      float: right;
+    width: 19%;
+
+    background-color: yellow;
+}
+.footer{
+    height: 35%;
+    margin-top:6%;
+background-color: dimgray;
+
+}
+
+div.background1 {
+    background-color: #424242;
+    
+    opacity: 0.8;
+
+    margin: 8% 6%;
+
+}
+
+
+.image_width{
+    max-width: 120px;
+    margin-top:50%;
+}
